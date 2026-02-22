@@ -38,7 +38,7 @@ import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 export default defineNuxtConfig({
    // ✅ ตั้งค่า compatibilityDate ตามที่ Nuxt เตือน
  nitro: {
-    compatibilityDate: '2025-10-12', // 🔥 วันที่ตามที่ Nuxt แนะนำใน warning
+    compatibilityDate: '2026-02-22',
   },
 
   modules: ['@pinia/nuxt'],
